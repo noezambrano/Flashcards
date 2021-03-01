@@ -1,10 +1,10 @@
 ## Lab 1
 
 ### App Description
-First version of a Flashcards app that is used to study. The app presents a question card and separate answer options. If the correct answer is chosen, the main question card reveals the answer, which should be the same as the selected choice. If incorrect, the selected choice disappears, and the main question card remains intact.
+First version of a Flashcards app that is used to study. The app presents a question card and separate answer options. If the correct answer is chosen, the main question card reveals the answer, which should be the same as the selected choice. If incorrect, the selected choice disappears, and the main question card remains intact. Additionally, if only the questoin card is selected, it can be toggled back in forth between the question and answer.
 
 ### App Walk-though
-<img src="https://imgur.com/download/cQMt2Pr/" width=200><br>
+<img src="https://imgur.com/d8VU0MN" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
